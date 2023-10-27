@@ -5,7 +5,7 @@ const Home = () => {
             <div ><img class="circular" src={logo} alt={logo}></img></div>
             <div class="sobredueno">
                 <article>
-                    <p>soy director jhonatan ...........
+                    <p>soy director jhonata
                     </p>
                 </article>
 
