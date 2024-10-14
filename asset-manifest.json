@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/REPOSITORY/static/css/main.612a0272.css",
+    "main.js": "/REPOSITORY/static/js/main.b8c56e72.js",
+    "static/js/787.e867cbfa.chunk.js": "/REPOSITORY/static/js/787.e867cbfa.chunk.js",
+    "static/media/user.png": "/REPOSITORY/static/media/user.d4c813b2a54f98be3de6.png",
+    "static/media/antena.webp": "/REPOSITORY/static/media/antena.8d68b4dacc66db3d10d5.webp",
+    "static/media/instagram.png": "/REPOSITORY/static/media/instagram.4b7ea4c02db8e299f432.png",
+    "static/media/trabajador.webp": "/REPOSITORY/static/media/trabajador.ab6ca98b821575a8fbaf.webp",
+    "static/media/MORALES.png": "/REPOSITORY/static/media/MORALES.91325c7c029f968d6e66.png",
+    "static/media/principal.jpeg": "/REPOSITORY/static/media/principal.cdcd7ea8d7cf3bb148f9.jpeg",
+    "static/media/whatsapp.png": "/REPOSITORY/static/media/whatsapp.49745ba096fcc81809e6.png",
+    "static/media/facebook.avif": "/REPOSITORY/static/media/facebook.6d54e7cf62f9cd63dbeb.avif",
+    "index.html": "/REPOSITORY/index.html",
+    "main.612a0272.css.map": "/REPOSITORY/static/css/main.612a0272.css.map",
+    "main.b8c56e72.js.map": "/REPOSITORY/static/js/main.b8c56e72.js.map",
+    "787.e867cbfa.chunk.js.map": "/REPOSITORY/static/js/787.e867cbfa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.612a0272.css",
+    "static/js/main.b8c56e72.js"
+  ]
+}
